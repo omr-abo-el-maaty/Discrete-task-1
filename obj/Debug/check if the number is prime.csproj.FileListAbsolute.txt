@@ -1,0 +1,8 @@
+D:\projects\check if the number is prime\check if the number is prime\bin\Debug\check if the number is prime.exe.config
+D:\projects\check if the number is prime\check if the number is prime\bin\Debug\check if the number is prime.exe
+D:\projects\check if the number is prime\check if the number is prime\bin\Debug\check if the number is prime.pdb
+D:\projects\check if the number is prime\check if the number is prime\obj\Debug\check if the number is prime.csproj.AssemblyReference.cache
+D:\projects\check if the number is prime\check if the number is prime\obj\Debug\check if the number is prime.csproj.SuggestedBindingRedirects.cache
+D:\projects\check if the number is prime\check if the number is prime\obj\Debug\check if the number is prime.csproj.CoreCompileInputs.cache
+D:\projects\check if the number is prime\check if the number is prime\obj\Debug\check if the number is prime.exe
+D:\projects\check if the number is prime\check if the number is prime\obj\Debug\check if the number is prime.pdb
